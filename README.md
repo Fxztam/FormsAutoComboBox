@@ -2,6 +2,7 @@
 
 The first version of a quasi Oracle Forms Auto Complete Combo Box with native PL/SQL Forms code was developed 2007,
 http://friedhold-matz.blogspot.de/2007/09/autocomplete-combobox.html
+http://www.free-dev.com/chk_lboxproto2.htm
 here is the adapted PoC Demo version for Oracle Forms 12c.
 
 ## Getting Started
@@ -23,7 +24,6 @@ here is the adapted PoC Demo version for Oracle Forms 12c.
     2.  Create a new Form
     3.  Add object group from cbox3.olb per drag and copy
     4.  Insert in the WHEN-NEW-FORMS-INSTANCE trigger
-
 ```
         pkg_CBOX.populate_auto_cbox('CBOX',
             'select name,name from europecities order by 1');

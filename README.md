@@ -39,6 +39,4 @@ Here the demo:
 
 <img src="http://www.fmatz.com/AutoCBox.gif" />
 
-## Known issues
-
-## Not implemented
+Enjoy it.

@@ -8,7 +8,7 @@ here is the adapted PoC Demo version for Oracle Forms 12c.
 This extended ComboBox includes 3 states:
 - Classical Forms ComboBox:
 
-  <img src="http://www.fmatz.com/CBOX-3-29-01-_2018_11-00-36.png" />
+  <img src="http://www.fmatz.com/CBOX-1-29-01-_2018_10-59-02.png" />
   
 - Extension with "block on canvas":
 

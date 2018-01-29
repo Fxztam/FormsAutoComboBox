@@ -14,7 +14,7 @@ This extended ComboBox includes 3 states:
 
   <img src="http://www.fmatz.com/CBOX-2-29-01-_2018_10-59-40.png" />
   
-- Not defined value:
+- Undefined value:
 
   <img src="http://www.fmatz.com/CBOX-3-29-01-_2018_11-00-36.png" />
   

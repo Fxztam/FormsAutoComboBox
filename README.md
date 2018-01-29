@@ -37,11 +37,9 @@ This extended ComboBox includes 3 states:
         SQL> @cr_eurocities.sql
     2.  Create a new Form
     3.  Add object group from cbox3.olb per drag and copy
-    4.  Insert in the WHEN-NEW-FORMS-INSTANCE trigger
-```
-        pkg_CBOX.populate_auto_cbox('CBOX',
-            'select name,name from europecities order by 1');
-```
+    4.  Insert in the WHEN-NEW-FORMS-INSTANCE trigger:
+    
+        pkg_CBOX.populate_auto_cbox('CBOX','select name,name from europecities order by 1');
 
 ### Programming
 

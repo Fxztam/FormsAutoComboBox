@@ -41,8 +41,6 @@ This extended ComboBox includes 3 states:
     
         pkg_CBOX.populate_auto_cbox('CBOX','select name,name from europecities order by 1');
 
-### Programming
-
 ## Running the tests
 
 - Compile and deploy the Form.

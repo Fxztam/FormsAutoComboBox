@@ -13,9 +13,8 @@ END;
 
 --- [BO showBlockLevelTriggers] ---
 BEGIN	
-	-- ignore --
-  NULL;
-  
+   -- ignore --
+   NULL; 
 END;
 --- [EO showBlockLevelTriggers] ---
 
